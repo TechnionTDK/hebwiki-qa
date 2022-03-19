@@ -7,7 +7,6 @@ from code_files.adjust_hugging_face import main as adjust_dataset_format
 import os
 import argparse
 
-
 def translate_dev_and_fix_per_batch(work_dir,args_squad,cred_file):
 
 
