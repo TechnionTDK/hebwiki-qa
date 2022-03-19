@@ -1,5 +1,4 @@
 # hebwiki-qa
-
 ### About
 
 NLP is a field of linguistics and machine learning focused on understanding everything related to human language. The aim of NLP tasks is not only to understand single words individually, but to be able to understand the context of those words. A common task in this fields is **Extracting an answer from a text**: Given a question and a context, extracting the answer to the question based on the information provided in the context.
