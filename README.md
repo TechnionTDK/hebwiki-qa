@@ -353,7 +353,7 @@ Using the model in Hugging face hub:
 
 ## Huggingface Links
 ### Hebrew SQuAD
-https://huggingface.co/datasets/tdklab/Hebrew_Squad_v1.1
+https://huggingface.co/datasets/tdklab/Hebrew_Squad_v1
 ### Fine-Tuned Model
 https://huggingface.co/tdklab/hebert-finetuned-hebrew-squad
 
